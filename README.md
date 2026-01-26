@@ -9,4 +9,4 @@ Creating_db: Omgjøring fra csv fil til en SQLite database. CSV-fil hentet fra h
 
 Loading_DB: Behandling og visualisering av databasen samt vise domenet av interesse. Se 'visualisering av loading_DB' for visualisering.
 
-AIS_heatmap/ais_heatmap_time: Kode for varmekart. Visualiseringen er eksportert som HTML og kan åpnes direkte i nettleser.
+AIS_heatmap/ais_heatmap_time: Kode for varmekart. Visualiseringen er eksportert som HTML.
